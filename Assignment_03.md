@@ -4,6 +4,7 @@ Martínez Garzón Ashlee Tatiana
 1. A mi me gustaría desempeñar la profundización de arquitectura y diseño, puesto que es un área en la que muestro bastante interés y me gustaría desarrrollar de mejor manera.
 2. Las fortalezas que puedo aportar al equipo son mi resilencia e investigación, puesto que son necesarias para la resolución de posibles problemas que se presenten en el desarrollo del proyecto.
 3. Los aspectos que debo mejorar para ser un mejor integrante del equipo son mi poca paciencia, baja tolerancia a la frustración y el estrés, debido a que soy una persona que explota fácilmente, lo que puede resultar en inconvenientes con mis compañeros de equipo y en el desarrollo y organización de los trabajos asignados.
+
 Kevin Alexander Rodriguez Forero
 
 Qué tipo de rol le gustaría desempeñar dentro de un equipo de software (por ejemplo: quien organiza y facilita, quien profundiza en arquitectura y diseño, quien se enfoca en pruebas y calidad, quien documenta y comunica con el “cliente”, etc.).
