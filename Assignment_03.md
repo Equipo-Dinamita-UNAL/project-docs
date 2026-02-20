@@ -1,4 +1,5 @@
 Kevin Alexander Rodriguez Forero
+
 Qué tipo de rol le gustaría desempeñar dentro de un equipo de software (por ejemplo: quien organiza y facilita, quien profundiza en arquitectura y diseño, quien se enfoca en pruebas y calidad, quien documenta y comunica con el “cliente”, etc.).
 
 Como estudiante de Ingeniería de Sistemas, considero que dentro de un equipo de desarrollo de software me gustaría desempeñar un rol de liderazgo técnico o de coordinación. Me motiva organizar el trabajo, facilitar la comunicación entre los integrantes y proponer soluciones cuando surgen dificultades. También me interesa participar en la parte de análisis y diseño, ya que disfruto pensar en cómo estructurar un sistema y buscar la mejor forma de resolver un problema.
