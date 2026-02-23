@@ -41,9 +41,9 @@ Respuestas Apartado 1 - Mateo Paez
 3. El manejo del tiempo y la organización de mis labores son dos características en las que debo trabajar considerablemente. Son necesarias para lograr el proyecto y para establecer un ambiente cooperativo saludable y eficiente.
 
 Apartado 2 - Equipo Dinamita
-Decidimos usar la metodología Scrum para nuestro proyecto (no sabemos qué es todavía). Usaremos el tablero de Scrum para que el Scrum Master asigne tareas a cada miembro del equipo. Las tareas serán actualizadas con el tiempo y avance del proyecto en las reuniones. 
-Las reglas propuestas son:
+Se decidió unanimamente trabajar bajo la metodología Scrum para avanzar de manera constante con nuesro proyecto. Usaremos el tablero de Scrum para que el Scrum Master asigne tareas a cada miembro del equipo. Las tareas serán actualizadas con el tiempo y avance del proyecto en las reuniones. 
+
 Reuniones 3 veces por semana al final de cada clase (lunes y miércoles) y los viernes a las 11 am. 
-Cuando necesitemos hacer un merge nos reuniremos a revisar y seleccionar los commits. 
-Escribir la documentación del proyecto luego de haber pulido todas las partes del mismo. Ayuda mutua porque nos queremos y somos amigos de proyecto. 
+Cuando necesitemos hacer un merge nos reuniremos a revisar y seleccionar los commits que harán parte de las ramas principales del proyecto. 
+Subir actualizaciones de la documentación del proyecto cada vez que se haga un cambio. Ayuda mutua porque nos queremos y somos amigos de proyecto. 
 Para tomar decisiones dialogaremos entre nosotros y consideraremos las ventajas y desventajas de cada opción para llegar a un consenso claro.
