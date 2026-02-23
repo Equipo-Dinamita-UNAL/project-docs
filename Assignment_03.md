@@ -41,8 +41,8 @@ Respuestas Apartado 1 - Mateo Paez
 
 Apartado 2 - Equipo Dinamita
 Decidimos usar la metodología Scrum para nuestro proyecto (no sabemos qué es todavía). Usaremos el tablero de Scrum para que el Scrum Master asigne tareas a cada miembro del equipo. Las tareas serán actualizadas con el tiempo y avance del proyecto en las reuniones. 
-
+Las reglas propuestas son:
 Reuniones 3 veces por semana al final de cada clase (lunes y miércoles) y los viernes a las 11 am. 
 Cuando necesitemos hacer un merge nos reuniremos a revisar y seleccionar los commits. 
-Subir actualizaciones de la documentación del proyecto cada vez que se haga un cambio. Ayuda mutua porque nos queremos y somos amigos de proyecto. 
+Escribir la documentación del proyecto luego de haber pulido todas las partes del mismo. Ayuda mutua porque nos queremos y somos amigos de proyecto. 
 Para tomar decisiones dialogaremos entre nosotros y consideraremos las ventajas y desventajas de cada opción para llegar a un consenso claro.
