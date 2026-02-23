@@ -47,3 +47,4 @@ Reuniones 3 veces por semana al final de cada clase (lunes y miércoles) y los v
 Cuando necesitemos hacer un merge nos reuniremos a revisar y seleccionar los commits que harán parte de las ramas principales del proyecto. 
 Subir actualizaciones de la documentación del proyecto cada vez que se haga un cambio. Ayuda mutua porque nos queremos y somos amigos de proyecto. 
 Para tomar decisiones dialogaremos entre nosotros y consideraremos las ventajas y desventajas de cada opción para llegar a un acuerdo común.
+Para tomar decisiones hablaremos entre nosotros y consideraremos las ventajas y desventajas de cada opción para llegar a un consenso claro.
