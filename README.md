@@ -1,5 +1,8 @@
 <!DOCTYPE html>
+<p align="center">
+  <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/e2bce1a2-535d-4b92-82a4-14751f0040ee" />
 
+</p>
   <!-- HEADER -->
   <div class="readme-header">
     <h1>Odontogate</h1>
